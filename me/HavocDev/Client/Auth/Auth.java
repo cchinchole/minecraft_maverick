@@ -5,6 +5,7 @@ import java.net.URL;
 
 /**
  * Created by christian on 11/2/2016.
+ * A sample authenticator that could be used to acquire a key from the c drive then check it against an outside source.
  */
 public class Auth {
 
